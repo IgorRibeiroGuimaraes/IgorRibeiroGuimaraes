@@ -17,10 +17,12 @@
 
 <p align="left">I'm  Igor Ribeiro Guimarães from Brazil
   <br/>
-- 👨‍🎓 Software Engineering and ADS student currently in my 4th year at UNICV
-  <br>- 🔭 I’m working as a Data Intern<br>
-  - 📚 I'm currently learning SQL, Next, React, Postgree, Docker, Prisma, Node<br>
-- ⚡ In my free time I like to read, play and study something new involving programming
+- 👨‍🎓 Graduated in Software Engineering.
+<br/>
+- 🎓 Currently pursuing a post-graduate degree in AI and DevOps for Data Engineering.
+  <br>- 💼 Working for 2 years at Grupo Angelus, where I started as an intern, then Data Assistant, Data Analyst, and now Full-Stack Developer Jr.<br>
+   - 🖥️ Experienced with Python and React, as well as SQL Server, PostgreSQL, Logic Apps, Pentaho, and Airflow for data orchestration.<br>
+- 📚 Always learning and passionate about Data Engineering and Full-Stack Development.
 </p>
 
 ###
@@ -31,7 +33,6 @@
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" align="center"> Tech Stack:</h3>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="13" />
@@ -45,15 +46,18 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="ts logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=azure" height="35" alt="azure logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo"  />
 </div>
-
 ###
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />  My Stats :</h3>
